@@ -8,5 +8,5 @@ spec:
   - port: 27017
     targetPort: 27017
   clusterIP: None
-  selector:
-    app: mongodb
+  selector: 
+    app: mongodb #
